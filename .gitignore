@@ -1,0 +1,4 @@
+.idea
+*.lock
+*.sum
+resources/_gen

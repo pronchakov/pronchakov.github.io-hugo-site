@@ -1,0 +1,40 @@
+baseURL = 'https://pronchakov.github.com/'
+languageCode = 'en-us'
+title = 'laboratory journal'
+
+[menu]
+[[menu.header]]
+name = "java"
+weight = 0
+url = "/java"
+
+[[menu.header]]
+name = "3d"
+weight = 1
+url = "/3d"
+
+[[menu.header]]
+name = "uav"
+weight = 2
+url = "/uav"
+
+[module]
+[[module.imports]]
+path = 'github.com/pronchakov/hugo-theme-nightfall'
+
+[params]
+author = "Artem Pronchakov"
+user = "maniak"
+hostname = "pronchakov.github.com"
+published = true
+readingTime = false
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/pronchakov"
+
+[[params.social]]
+key = 1
+name = "email"
+url = "mailto:artem.pronchakov@gmail.com"
