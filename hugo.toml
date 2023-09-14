@@ -23,9 +23,10 @@ url = "/uav"
 path = 'github.com/pronchakov/hugo-theme-nightfall'
 
 [params]
-author = "Artem Pronchakov"
-user = "maniak"
-hostname = "pronchakov.github.com"
+author = "laboratory journal"
+user = "pronchakov"
+hostname = "github.io"
+homedir = "/home/maniak"
 published = true
 readingTime = false
 
