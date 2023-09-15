@@ -1,3 +1,6 @@
 [submodule "themes/nightfall"]
 	path = themes/nightfall
 	url = git@github.com:pronchakov/hugo-theme-nightfall.git
+[submodule "public"]
+	path = public
+	url = git@github.com:pronchakov/pronchakov.github.io.git
