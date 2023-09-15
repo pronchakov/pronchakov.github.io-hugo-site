@@ -1,6 +1,7 @@
 baseURL = 'https://pronchakov.github.com/'
 languageCode = 'en-us'
 title = 'laboratory journal'
+theme = 'nightfall'
 
 [menu]
 [[menu.header]]
@@ -17,10 +18,6 @@ url = "/3d"
 name = "uav"
 weight = 2
 url = "/uav"
-
-[module]
-[[module.imports]]
-path = 'github.com/pronchakov/hugo-theme-nightfall'
 
 [params]
 author = "laboratory journal"
