@@ -1,6 +1,6 @@
-baseURL = 'https://pronchakov.github.com/'
+baseURL = 'https://clearprop.ru/'
 languageCode = 'en-us'
-title = 'laboratory journal'
+title = 'ClearProp'
 theme = 'nightfall'
 
 [menu]
@@ -20,10 +20,12 @@ weight = 2
 url = "/uav"
 
 [params]
-author = "laboratory journal"
-user = "pronchakov"
-hostname = "github.io"
-homedir = "/home/maniak"
+name = "Clear Prop"
+desc = "Programming, 3D printers, Flight Simming, UAV, etc..."
+author = "Artem Pronchakov"
+user = "maniak"
+hostname = "clearprop.ru"
+homedir = "/home/lab"
 published = true
 readingTime = false
 
