@@ -19,6 +19,11 @@ name = "uav"
 weight = 2
 url = "/uav"
 
+[[menu.header]]
+name = "Проекты"
+weight = 3
+url = "/projects"
+
 [params]
 name = "Clear Prop"
 desc = "Programming, 3D printers, Flight Simming, UAV, etc..."
