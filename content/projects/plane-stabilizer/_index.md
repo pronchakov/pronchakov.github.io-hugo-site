@@ -12,7 +12,7 @@ draft = false
 
 ### Концепция
 
-![Концепт](img/ps-concept.png)
+![Концепт](img/ps-concept.dgm.png)
 
 #### Входные сигналы
 
